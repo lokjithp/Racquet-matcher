@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RacquetDataAccessLayer", "RacquetDataAccessLayer\RacquetDataAccessLayer.csproj", "{2F151F30-97FB-41AE-B529-1F0FF17A456B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RacquetConsoleApp", "RacquetConsoleApp\RacquetConsoleApp.csproj", "{DAC0293F-A10B-442C-968E-3BE0E4B2328E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RacquetWebApp", "RacquetWebApp\RacquetWebApp.csproj", "{6676905B-1474-4DDF-AE84-85C2D290F6A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F151F30-97FB-41AE-B529-1F0FF17A456B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F151F30-97FB-41AE-B529-1F0FF17A456B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F151F30-97FB-41AE-B529-1F0FF17A456B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F151F30-97FB-41AE-B529-1F0FF17A456B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAC0293F-A10B-442C-968E-3BE0E4B2328E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC0293F-A10B-442C-968E-3BE0E4B2328E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC0293F-A10B-442C-968E-3BE0E4B2328E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC0293F-A10B-442C-968E-3BE0E4B2328E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6676905B-1474-4DDF-AE84-85C2D290F6A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6676905B-1474-4DDF-AE84-85C2D290F6A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6676905B-1474-4DDF-AE84-85C2D290F6A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6676905B-1474-4DDF-AE84-85C2D290F6A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53B81B2B-C0E3-4C7A-9146-EBFD4ED10804}
+	EndGlobalSection
+EndGlobal
